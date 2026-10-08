@@ -1,6 +1,4 @@
-## IT Support & Networking Portfolio
-
-> IT Support | Help Desk | Networking
+## IT Support | Aspiring Network Engineer
 
 **Core stack:**
 
