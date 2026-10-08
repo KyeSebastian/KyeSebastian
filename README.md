@@ -105,4 +105,4 @@ Fantasy football start/sit advisor running on four XGBoost models, one per posit
 
 ## Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kye--mora.com-21262D?style=for-the-badge)](https://kye-mora.com) [![Blog](https://img.shields.io/badge/Blog-Build_Logs-21262D?style=for-the-badge)](https://kye-mora.com/blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kye--mora.com-E5B93C?style=for-the-badge&labelColor=21262D)](https://kye-mora.com) [![Blog](https://img.shields.io/badge/Blog-Build_Logs-E5B93C?style=for-the-badge&labelColor=21262D)](https://kye-mora.com/blog)
