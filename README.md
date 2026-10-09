@@ -1,21 +1,5 @@
 ## IT Support | Aspiring Network Engineer
 
-**Core stack:**
-
-### Infrastructure & Networking
-![Proxmox](https://img.shields.io/badge/Proxmox-21262D?style=for-the-badge&logo=proxmox&logoColor=E57000) ![pfSense](https://img.shields.io/badge/pfSense-21262D?style=for-the-badge&logo=pfsense&logoColor=white) ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-21262D?style=for-the-badge&logo=cisco&logoColor=1BA0D7) ![GNS3](https://img.shields.io/badge/GNS3-21262D?style=for-the-badge&logoColor=white) ![HAProxy](https://img.shields.io/badge/HAProxy-21262D?style=for-the-badge&logoColor=white) ![keepalived / VRRP](https://img.shields.io/badge/keepalived_/_VRRP-21262D?style=for-the-badge) ![nginx](https://img.shields.io/badge/nginx-21262D?style=for-the-badge&logo=nginx&logoColor=009639) ![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-21262D?style=for-the-badge&logo=amazonec2&logoColor=FF9900) ![Cloudflare](https://img.shields.io/badge/Cloudflare-21262D?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-
-### Systems & IT Support
-![Active Directory](https://img.shields.io/badge/Active_Directory-21262D?style=for-the-badge&logo=microsoft&logoColor=0078D4) ![LDAP](https://img.shields.io/badge/LDAP-21262D?style=for-the-badge) ![Windows Server](https://img.shields.io/badge/Windows_Server-21262D?style=for-the-badge&logo=windows&logoColor=0078D4) ![GLPI](https://img.shields.io/badge/GLPI-21262D?style=for-the-badge&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-21262D?style=for-the-badge&logo=linux&logoColor=FCC624) ![Ubuntu](https://img.shields.io/badge/Ubuntu-21262D?style=for-the-badge&logo=ubuntu&logoColor=E95420) ![PowerShell](https://img.shields.io/badge/PowerShell-21262D?style=for-the-badge&logo=powershell&logoColor=5391FE)
-
-### Security
-![Wazuh](https://img.shields.io/badge/Wazuh-21262D?style=for-the-badge&logo=wazuh&logoColor=005792) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-21262D?style=for-the-badge&logo=kalilinux&logoColor=557C94) ![Nmap](https://img.shields.io/badge/Nmap-21262D?style=for-the-badge&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/Security+-21262D?style=for-the-badge&logo=comptia&logoColor=C8202F)
-
-### Automation & Code
-![Python](https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=3776AB) ![Nornir / Netmiko](https://img.shields.io/badge/Nornir_/_Netmiko-21262D?style=for-the-badge&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-21262D?style=for-the-badge&logo=jinja&logoColor=B41717) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262D?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Git](https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=F05032) ![Java](https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
----
-
 ## About Me
 
 I am a computer science graduate with my focus on networking: how a computer operates, communicates, and lives on a network. I'm looking for my first opportunity and I'm willing to start from the ground up. I'm the composed hire you're looking for. The only way to learn is by doing it. Some people build a whole data center in their living space and call it a home lab. I run everything I need off a single ThinkPad, all written up on [my blog](https://kye-mora.com/blog), a place to build, break, and learn from my own mistakes: firewall policy, network segmentation, a SIEM correlating real alerts, and infrastructure I automate myself.
@@ -106,3 +90,19 @@ Fantasy football start/sit advisor running on four XGBoost models, one per posit
 ## Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kye--mora.com-E5B93C?style=for-the-badge&labelColor=21262D)](https://kye-mora.com) [![Blog](https://img.shields.io/badge/Blog-Build_Logs-E5B93C?style=for-the-badge&labelColor=21262D)](https://kye-mora.com/blog)
+
+---
+
+## Core Stack
+
+### Infrastructure & Networking
+![Proxmox](https://img.shields.io/badge/Proxmox-21262D?style=for-the-badge&logo=proxmox&logoColor=E57000) ![pfSense](https://img.shields.io/badge/pfSense-21262D?style=for-the-badge&logo=pfsense&logoColor=white) ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-21262D?style=for-the-badge&logo=cisco&logoColor=1BA0D7) ![GNS3](https://img.shields.io/badge/GNS3-21262D?style=for-the-badge&logoColor=white) ![HAProxy](https://img.shields.io/badge/HAProxy-21262D?style=for-the-badge&logoColor=white) ![keepalived / VRRP](https://img.shields.io/badge/keepalived_/_VRRP-21262D?style=for-the-badge) ![nginx](https://img.shields.io/badge/nginx-21262D?style=for-the-badge&logo=nginx&logoColor=009639) ![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-21262D?style=for-the-badge&logo=amazonec2&logoColor=FF9900) ![Cloudflare](https://img.shields.io/badge/Cloudflare-21262D?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+
+### Systems & IT Support
+![Active Directory](https://img.shields.io/badge/Active_Directory-21262D?style=for-the-badge&logo=microsoft&logoColor=0078D4) ![LDAP](https://img.shields.io/badge/LDAP-21262D?style=for-the-badge) ![Windows Server](https://img.shields.io/badge/Windows_Server-21262D?style=for-the-badge&logo=windows&logoColor=0078D4) ![GLPI](https://img.shields.io/badge/GLPI-21262D?style=for-the-badge&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-21262D?style=for-the-badge&logo=linux&logoColor=FCC624) ![Ubuntu](https://img.shields.io/badge/Ubuntu-21262D?style=for-the-badge&logo=ubuntu&logoColor=E95420) ![PowerShell](https://img.shields.io/badge/PowerShell-21262D?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+### Security
+![Wazuh](https://img.shields.io/badge/Wazuh-21262D?style=for-the-badge&logo=wazuh&logoColor=005792) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-21262D?style=for-the-badge&logo=kalilinux&logoColor=557C94) ![Nmap](https://img.shields.io/badge/Nmap-21262D?style=for-the-badge&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/Security+-21262D?style=for-the-badge&logo=comptia&logoColor=C8202F)
+
+### Automation & Code
+![Python](https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=3776AB) ![Nornir / Netmiko](https://img.shields.io/badge/Nornir_/_Netmiko-21262D?style=for-the-badge&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-21262D?style=for-the-badge&logo=jinja&logoColor=B41717) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262D?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Git](https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=F05032) ![Java](https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
